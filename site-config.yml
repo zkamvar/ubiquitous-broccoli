@@ -1,5 +1,5 @@
 ---
-hub: "cdcepi/FluSight-forecast-hub/"
+hub: "reichlab/flu-metrocast"
 title: "Example Hub Dashboard Website"
 pages:
   - "about.md"
