@@ -1,6 +1,6 @@
 ---
 title: "Accessing Hub Data"
-hub-bucket-name: "[hub-bucket-name]"
+hub-bucket-name: "reichlab-flu-metrocast-hub"
 ---
 
 ## Accessing hub data on the cloud
