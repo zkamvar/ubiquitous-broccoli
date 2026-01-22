@@ -120,6 +120,7 @@
     "current_date": "2025-05-24",
     "models": [
         "epiENGAGE-ensemble_mean",
+        "MOBS-EpyStrain_Flu",
         "NAU-Copycat",
         "NAU-INFLAenza",
         "UMass-SAR",
@@ -141,6 +142,7 @@
         "VTSanghani-PRIME": "https://github.com/reichlab/flu-metrocast/blob/main/model-metadata/VTSanghani-PRIME.yml",
         "epiENGAGE-baseline": "https://github.com/reichlab/flu-metrocast/blob/main/model-metadata/epiENGAGE-baseline.yml",
         "epiENGAGE-lop_norm": "https://github.com/reichlab/flu-metrocast/blob/main/model-metadata/epiENGAGE-lop_norm.yml",
+        "MOBS-EpyStrain_Flu": "https://github.com/reichlab/flu-metrocast/blob/main/model-metadata/MOBS-EpyStrain_Flu.yml",
         "epiforecasts-dyngam": "https://github.com/reichlab/flu-metrocast/blob/main/model-metadata/epiforecasts-dyngam.yml",
         "UMass-SAR": "https://github.com/reichlab/flu-metrocast/blob/main/model-metadata/UMass-SAR.yml",
         "epiENGAGE-INFLAenza": "https://github.com/reichlab/flu-metrocast/blob/main/model-metadata/epiENGAGE-INFLAenza.yml",
